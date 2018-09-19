@@ -1,8 +1,7 @@
-
 # Created by https://www.gitignore.io/api/linux,macos,windows,laravel,netbeans
 
 ### Laravel ###
-vendor/
+/vendor
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -67,7 +66,7 @@ Temporary Items
 nbproject/private/
 build/
 nbbuild/
-dist/
+/dist
 nbdist/
 .nb-gradle/
 project.properties
